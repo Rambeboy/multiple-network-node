@@ -78,7 +78,7 @@ The node service logs are stored in `output.log` in the same directory as the sc
 
 ## License
 
-This script is released under the MIT License. Feel free to modify and distribute it.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
