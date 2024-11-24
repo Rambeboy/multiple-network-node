@@ -12,6 +12,10 @@ An automated installation script for Multiple Node Client with user-friendly int
 
 ## Quick Installation
 
+```bash
+[ -f setup.sh ] && rm setup.sh; wget https://raw.githubusercontent.com/Rambeboy/multiple-network-node/refs/heads/master/setup.sh && sudo chmod +x setup.sh && ./setup.sh || echo "Error: Failed to install from setup.sh"
+```
+
 You can quickly install Multiple Node using either `wget` or `curl`:
 
 Using wget:
