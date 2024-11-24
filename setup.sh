@@ -6,7 +6,7 @@ RED='\033[0;31m'
 YELLOW='\033[0;33m'
 NC='\033[0m'
 
-curl -s https://raw.githubusercontent.com/airdropinsiders/Multiple-Network-Node/refs/heads/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/Rambeboy/Rambeboy/refs/heads/main/ShowLogo.sh | bash
 echo "Starting Auto Install Nodes Multiple Network"
 sleep 5
 
