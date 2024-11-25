@@ -64,13 +64,15 @@ The script will automatically install the following packages:
 
 After successful installation, you can use these commands:
 
-```bash
-# Check node status
-multiple-cli status
+1. Check node status:
+   ```bash
+   multiple-cli status
+   ```
 
-# View all available commands
-multiple-cli --help
-```
+2. View all available commands:
+   ```bash
+   multiple-cli --help
+   ```
 
 ## Logs
 
